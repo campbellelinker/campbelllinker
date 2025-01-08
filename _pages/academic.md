@@ -8,6 +8,14 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
 
-# one
-## middle
-# two
+# Heading 1
+
+Hello world
+
+## Subheading
+
+Hi again world
+
+# Heading 2
+
+Oh Hi
