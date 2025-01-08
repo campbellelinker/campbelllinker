@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /index/
   - title: "About"
     url: /about/
   - title: "Academic Resources"
