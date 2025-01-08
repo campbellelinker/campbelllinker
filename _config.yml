@@ -9,7 +9,7 @@
 # Theme Settings
 
 title: Psychology Student Resources
-email: psychologyclub@smith.edu
+
 logo:  /assets/images/smith.jpg
 description: >- # this means to ignore newlines until "baseurl:"
   Written and compiled by the Psychology Club at Smith College, this student resource website serves as a tool to 
@@ -54,8 +54,10 @@ plugins:
 author:
   name   : "Smith Psychology Club"
   avatar : "/assets/images/psych-club.jpg"
-  bio    : "The Psychology Club at Smith College, established in 2024."
+  bio    : "The Psychology Club at Smith College, est in 2024."
   links:
+    - label: "Email"
+      email: psychologyclub@smith.edu
     - label: "Official Smith Psychology Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.smith.edu/academics/psychology"
