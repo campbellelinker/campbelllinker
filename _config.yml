@@ -54,10 +54,9 @@ plugins:
 author:
   name   : "Smith Psychology Club"
   avatar : "/assets/images/psych-club.jpg"
-  bio    : "The Psychology Club at Smith College, est in 2024."
+  bio    : "The Psychology Club at Smith College, est. 2024."
+  email  : psychologyclub@smith.edu
   links:
-    - label: "Email"
-      email: psychologyclub@smith.edu
     - label: "Official Smith Psychology Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.smith.edu/academics/psychology"
