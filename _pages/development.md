@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /posts/
+title: "Professional Development"
+permalink: /development/
 layout: posts
 author_profile: true
 ---
