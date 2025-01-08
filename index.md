@@ -35,7 +35,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/psych-club.jpg
     alt: "psych club logo"
-    title: "This website is brought to you by the Smith Psychology Club"
+    title: "This website was created by the Smith Psychology Club"
     excerpt: 'The Psychology Club at Smith College (est. 2024) is open to all undergraduate students across the five college consortium. This organization seeks to further networking and professional development opportunities by encouraging its members to mature into their psychology affiliations and to sharpen their vision about how their studies can be applied in life beyond Smith.'
     url: "https://socialnetwork.smith.edu/organization/psychologyclub"
     btn_label: "Join our organization here"
@@ -54,4 +54,4 @@ feature_row4:
 
 {% include figure popup=true image_path="/assets/images/bass-hall.jpg" alt="bass hall" caption="The Psychology Department is primarily located in Bass Hall. (image accessed from the official Smith College Website" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
