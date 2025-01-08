@@ -1,6 +1,5 @@
 ---
-title: "Extracurricular Resources"
 permalink: /extracurricular/
-author_profile: true
+title: "Extracurricular Resources"
 toc_sticky: true
 ---
