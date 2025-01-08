@@ -1,6 +1,5 @@
 ---
 title: "Academics"
-layout: categories
 permalink: /academic/
 author_profile: true
 toc_sticky: true
