@@ -1,7 +1,6 @@
 ---
-title: "Academics"
 permalink: /academic/
-author_profile: true
+title: "Academics"
 toc_sticky: true
 ---
 
