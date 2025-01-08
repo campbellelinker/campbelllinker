@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Academic Resources"
 layout: categories
-permalink: /categories/
+permalink: /academic/
 author_profile: true
 ---
