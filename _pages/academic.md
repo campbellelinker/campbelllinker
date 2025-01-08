@@ -2,7 +2,7 @@
 title: "Academics"
 layout: categories
 permalink: /academic/
-author_profile: true
+author_profile: false
 toc: true
 toc_sticky: true
 ---
