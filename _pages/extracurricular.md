@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Extracurricular Resources"
+permalink: /extracurricular/
 layout: tags
 author_profile: true
 ---
