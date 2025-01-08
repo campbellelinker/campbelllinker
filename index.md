@@ -6,8 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/brain.jpg
-excerpt: "This website is a centralized source for information about the psychology department at Smith College.
-This website contains resources for students looking for help with academics, internships, jobs, graduate school, and more."
+excerpt: "This website serves as a centralized bank of resources for psychology undergraduates looking for help with academics, internships, jobs, graduate school, and more."
 feature_row:
   - image_path: assets/images/smith.jpg
     alt: "placeholder image 1"
@@ -26,11 +25,12 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/smith.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    alt: "smith college logo"
+    title: "Welcome to Psychology at Smith College"
+    excerpt: '"Psychology at Smith is consistently one of the most popular majors on campus. The department’s faculty is strongly committed to providing a rich, diverse curriculum to majors and nonmajors alike. Our mission is to develop skills that will serve students well in psychology but that can also be applied in other important arenas, including writing and communication skills, hands-on training and multicultural fluency. We emphasize student participation in research; faculty-student collaboration and mentoring; and preparation and guidance for future studies in psychology and related fields." -- Smith College Psychology Department
+'
+    url: "https://www.smith.edu/academics/psychology"
+    btn_label: "Visit the college website"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/smith.jpg
@@ -54,12 +54,4 @@ feature_row4:
 ## Welcome to the Psychology Department at Smith College
 > "Psychology at Smith is consistently one of the most popular majors on campus. The department’s faculty is strongly committed to providing a rich, diverse curriculum to majors and nonmajors alike. Our mission is to develop skills that will serve students well in psychology but that can also be applied in other important arenas, including writing and communication skills, hands-on training and multicultural fluency. We emphasize student participation in research; faculty-student collaboration and mentoring; and preparation and guidance for future studies in psychology and related fields." -- Smith College Website, Academics, Psychology Department
 
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
 {% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
