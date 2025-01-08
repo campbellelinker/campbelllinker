@@ -1,9 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Academic Resources"
+  - title: "Academics"
     url: /academic/
   - title: "Extracurricular"
     url: /extracurricular/
-  - title: "Professional Development"
-    url: /development/
