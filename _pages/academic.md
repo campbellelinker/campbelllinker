@@ -4,8 +4,7 @@ layout: categories
 permalink: /academic/
 author_profile: true
 toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+toc_sticky: true
 ---
 
 # Heading 1
