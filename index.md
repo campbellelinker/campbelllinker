@@ -33,12 +33,12 @@ feature_row2:
     btn_label: "Visit the college website"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/smith.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: /assets/images/psych-club.jpg
+    alt: "psych club logo"
+    title: "This website is brought to you by the Smith Psychology Club"
+    excerpt: 'The Psychology Club at Smith College (est. 2024) is open to all undergraduate students across the five college consortium. This organization seeks to further networking and professional development opportunities by encouraging its members to mature into their psychology affiliations and to sharpen their vision about how their studies can be applied in life beyond Smith.'
+    url: "https://socialnetwork.smith.edu/organization/psychologyclub"
+    btn_label: "Join our organization here"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/smith.jpg
