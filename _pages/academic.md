@@ -3,12 +3,92 @@ permalink: /academic/
 title: "Academics"
 toc_sticky: true
 ---
+# Three learning tracks
+The psychology curriculum is organized around the following tracks of study:
+1. Mind and Brain
+    a. Cognitive Psychology
+    b. Neuropsychology
+2. Health and Illness
+    a. Clinical Psychology
+    b. Health Psychology 
+3. Person and Society
+    a. Personality Psychology
+    b. Social Psychology
+    c. Developmental Psychology
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Courses in the psychology department can be categorized into these three tracks of study. See the following section about major and minor requirements for more information.
 
-# Heading 1
-Hello world
-## Subheading
-Hi again world
-### Sub subheading 
-Oh Hi
+
+# The major and minor
+## Psychology major requirements:
+**Ten total courses**
+Foundation Courses (normally completed by the end of the sophomore year):
+1. PSY 100
+2. SDS 201 or PSY 201
+3. PSY 202 
+Breadth (One course within each of the department’s three curricular areas):
+4. Mind and Brain
+5. Health and Illness
+6. Person and Society
+Depth
+7-8. Two colloquia
+9-10. Two courses at the advanced level (300- or above)
+- At least one of which is a seminar
+- At least one course that is consistent with the selected major track
+
+See the college website for more information on credits and criteria
+
+## Psychology minor requirements:
+**Six total courses**
+1-2. Two courses from the three foundational courses for the major 
+- PSY 100
+- SDS 201 or PSY 201
+- PSY 202 
+3-6. Four courses selected from at least two of the department’s three learning tracks:
+- Mind and Brain
+- Health and Illness
+- Person and Society
+At least one colloquium
+At least one seminar
+
+See the college website for more information on credits and criteria
+
+# How to declare a major/minor
+1. Ask one of your Psychology instructors to be your adviser
+  - Don’t be offended if they don’t have room for you.
+
+OR
+
+2. Contact the Psychology Department Assistant Laura Fountain-Cincotta (lfountaincincotta@smith.edu) asking to be paired with an adviser 
+
+
+# Broadening your horizons: Other paths of study
+Many students find that the psychology major is enhanced by learning in other departments, whether it be through taking other courses, declaring a minor, or declaring a second major.
+
+Common departments often paired with psychology:
+
+- Statistical and Data Science
+    - Major in SDS
+    - Major in Mathematical Statistics
+    - Minor in SDS
+    - Minor in Applied Statistics 
+
+Education and Child Study
+    - Major in EDC
+    - Minor in EDC
+
+Computer Science
+    - Major in CSC
+    - Minor in CSC
+
+Neuroscience
+    - Major in Neuroscience
+    - Minor in Neuroscience
+
+Many students will complete coursework, a minor, or a major in a foreign language.
+
+# Honors Thesis in Psychology
+
+The departmental honors thesis is for senior psychology majors interested in conducting independent research on a particular topic. Honors students work closely with a faculty member to conceptualize, design, and conduct an empirical research project. Please note: faculty members from outside the Smith Psychology department are not eligible to serve as thesis advisers; the principal adviser of a psychology honors thesis must be a Smith Psychology Department faculty member. The project culminates in a paper that is equivalent to a publishable journal article in quality and length (i.e., about 30-50 pages of text and written in APA style). At the end of the academic year, Honors students present their projects to the department as a whole. Successful completion of an Honors thesis leads to departmental honors upon graduation.
+
+Visit the official Smith College website for FAQ about Honors Theses.
