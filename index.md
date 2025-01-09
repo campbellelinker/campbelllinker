@@ -42,9 +42,9 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row4:
   - title: "See how to navigate the resources on this website"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    excerpt: 'Visit the "About" page by'
     url: "/about/"
-    btn_label: "Click here"
+    btn_label: "clicking here"
     btn_class: "btn--primary"
 ---
 
