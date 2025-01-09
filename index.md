@@ -42,7 +42,7 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row4:
     title: "Learn how to navigate this website:"
-    excerpt: ' '
+    excerpt: 'Visit the about page'
     url: "/about/"
     btn_label: "Cick here"
     btn_class: "btn--primary"
