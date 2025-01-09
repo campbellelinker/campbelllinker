@@ -23,33 +23,33 @@ Courses in the psychology department can be categorized into these three tracks 
 ### Psychology major requirements:
 **Ten total courses**
 Foundation Courses (normally completed by the end of the sophomore year):
-    - PSY 100
-    - SDS 201 or PSY 201
-    - PSY 202 
+ - PSY 100
+ - SDS 201 or PSY 201
+ - PSY 202 
 Breadth (One course within each of the department’s three curricular areas):
-    - Mind and Brain
-    - Health and Illness
-    - Person and Society
+ - Mind and Brain
+ - Health and Illness
+ - Person and Society
 Depth
-    - Two colloquia
-    - Two courses at the advanced level (300- or above)
-- At least one of which is a seminar
-- At least one course that is consistent with the selected major track
+ - Two colloquia
+ - Two courses at the advanced level (300- or above)
+     - At least one of which is a seminar
+     - At least one course that is consistent with the selected major track
 
 See the college website for more information on credits and criteria
 
 ### Psychology minor requirements:
 **Six total courses**
-1-2. Two courses from the three foundational courses for the major 
-- PSY 100
-- SDS 201 or PSY 201
-- PSY 202 
-3-6. Four courses selected from at least two of the department’s three learning tracks:
-- Mind and Brain
-- Health and Illness
-- Person and Society
-At least one colloquium
-At least one seminar
+Two courses from the three foundational courses for the major 
+ - PSY 100
+ - SDS 201 or PSY 201
+ - PSY 202 
+Four courses selected from at least two of the department’s three learning tracks:
+ - Mind and Brain
+ - Health and Illness
+ - Person and Society
+     - At least one is a colloquium
+     - At least one is a seminar
 
 See the college website for more information on credits and criteria
 
