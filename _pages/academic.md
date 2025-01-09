@@ -73,15 +73,15 @@ Common departments often paired with psychology:
     - Minor in SDS
     - Minor in Applied Statistics 
 
-Education and Child Study
+- Education and Child Study
     - Major in EDC
     - Minor in EDC
 
-Computer Science
+- Computer Science
     - Major in CSC
     - Minor in CSC
 
-Neuroscience
+- Neuroscience
     - Major in Neuroscience
     - Minor in Neuroscience
 
