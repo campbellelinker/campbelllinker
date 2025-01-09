@@ -27,3 +27,13 @@ The 'extracurricular' page is called **extracurricular.md** and is located in th
 
 This site was made following the minimal mistakes guide for creating a github pages website. Minimal mistakes is a jekyll theme. You can
 reference this website: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ as a guide for how to add certain features.
+
+## Descriptions of the directories
+Directories are the little folders contained in this repository.
+
+## _assets
+This directory holds web content like images or files. 
+
+## _data
+This directory has one document, **_navigation.yml** which controls what pages are displayed in the top navigation bar. If you want to add a 
+new page, follow the outline of the others in this document. They'll connect to the .md pages in the _pages directory by using the permalink.
