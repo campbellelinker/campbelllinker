@@ -41,9 +41,9 @@ feature_row3:
     btn_label: "Join our organization here"
     btn_class: "btn--primary"
 feature_row4:
-  - title: "How to navigate the resources on this website:"
+    title: "Learn how to navigate this website:
     url: "/about/"
-    btn_label: "Visit the "About" page"
+    btn_label: "Visit the about page"
     btn_class: "btn--primary"
 ---
 
