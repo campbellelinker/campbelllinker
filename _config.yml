@@ -65,6 +65,7 @@ plugins:
 author:
   name   : "Smith Psychology Club"
   avatar : "/assets/images/psych-club.jpg"
+  description : " "
   email  : psychologyclub@smith.edu
   links:
     - label: "GitHub"
