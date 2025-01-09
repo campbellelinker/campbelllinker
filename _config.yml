@@ -68,18 +68,15 @@ author:
   bio    : "The Psychology Club at Smith College, est. 2024."
   email  : psychologyclub@smith.edu
   links:
-    - label: "Official Smith Psychology Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.smith.edu/academics/psychology"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/smithpsychologyclub"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/smith-psychology-club"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/smithpsychologyclub"
+    - label: "Official Smith Psychology Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.smith.edu/academics/psychology"
 
 footer:
   links:
