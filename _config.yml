@@ -65,7 +65,6 @@ plugins:
 author:
   name   : "Smith Psychology Club"
   avatar : "/assets/images/psych-club.jpg"
-  bio    : "The Psychology Club at Smith College, est. 2024."
   email  : psychologyclub@smith.edu
   links:
     - label: "GitHub"
