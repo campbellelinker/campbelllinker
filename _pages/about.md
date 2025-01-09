@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "How to navigate"
 toc_sticky: true
 ---
 # Heading 1
