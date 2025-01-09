@@ -41,12 +41,10 @@ feature_row3:
     btn_label: "Join our organization here"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/smith.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
+  - title: "See how to navigate the resources on this website"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "/about/"
+    btn_label: "Click here"
     btn_class: "btn--primary"
 ---
 
@@ -55,3 +53,5 @@ feature_row4:
 {% include figure popup=true image_path="/assets/images/bass-hall.jpg" alt="bass hall" caption="The Psychology Department is primarily located in Bass Hall. (image accessed from the official Smith College Website" %}
 
 {% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="center" %}
