@@ -50,8 +50,6 @@ feature_row4:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include figure popup=true image_path="/assets/images/bass-hall.jpg" alt="bass hall" caption="The Psychology Department is primarily located in Bass Hall. (image accessed from the official Smith College Website" %}
-
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="center" %}
