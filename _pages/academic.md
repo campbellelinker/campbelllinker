@@ -9,13 +9,13 @@ This page contains information regarding the psychology department at Smith Coll
 
 ## Three learning tracks
 The psychology curriculum is organized around the following tracks of study:
-1. Mind and Brain
+1. **Mind and Brain**
     - Cognitive Psychology
     - Neuropsychology
-2. Health and Illness
+2. **Health and Illness**
     - Clinical Psychology
     - Health Psychology 
-3. Person and Society
+3. **Person and Society**
     - Personality Psychology
     - Social Psychology
     - Developmental Psychology
