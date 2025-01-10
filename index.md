@@ -38,7 +38,7 @@ feature_row3:
     title: "This website was created by the Smith Psychology Club"
     excerpt: 'The Psychology Club at Smith College (est. 2024) is open to all undergraduate students across the five college consortium. This organization seeks to further networking and professional development opportunities by encouraging its members to mature into their psychology affiliations and to sharpen their vision about how their studies can be applied in life beyond Smith.'
     url: "https://socialnetwork.smith.edu/organization/psychologyclub"
-    btn_label: "Join our organization here"
+    btn_label: "Join our organization"
     btn_class: "btn--primary"
 feature_row4:
   - title: "How to navigate this website:"
@@ -49,7 +49,5 @@ feature_row4:
 ---
 
 {% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
 
 
