@@ -20,8 +20,6 @@ The psychology curriculum is organized around the following tracks of study:
     - Social Psychology
     - Developmental Psychology
 
-Courses in the psychology department can be categorized into these three tracks of study. See the following section about major and minor requirements for more information.
-
 {% include figure popup=true image_path="/assets/images/tracks.sized.jpg" %}
 
 
