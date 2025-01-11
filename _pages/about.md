@@ -15,7 +15,7 @@ This page contains information about:
     - How to declare a major/minor
 - Graduate school resources
 
-{% include figure popup=true image_path="/assets/images/academic.jpg" %}
+{% include figure popup=true image_path="/assets/images/academics.jpg" %}
 
 # Extracurricular resources
 This page contains information about: 
