@@ -5,6 +5,11 @@ toc_sticky: true
 ---
 This page contains information regarding the psychology department at Smith College, general resources for academic writing in psychology, and resources for graduate school.
 
+# ACADEMIC HELP RESOURCES
+
+## Writing papers
+
+
 # PSYCHOLOGY AT SMITH
 
 ## Three learning tracks
@@ -102,8 +107,5 @@ The departmental honors thesis is for senior psychology majors interested in con
 
 Visit the official Smith College website for FAQ about Honors Theses.
 
-# ACADEMIC HELP RESOURCES
-
-## Writing papers
 
 # GRADUATE SCHOOL RESOURCES
