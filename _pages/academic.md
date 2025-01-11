@@ -46,11 +46,14 @@ Depth
 See the college website for more information on credits and criteria
 
 ### Psychology minor requirements:
+
 **Six total courses**
+
 Two courses from the three foundational courses for the major 
  - PSY 100
  - SDS 201 or PSY 201
- - PSY 202 
+ - PSY 202
+   
 Four courses selected from at least two of the department’s three learning tracks:
  - Mind and Brain
  - Health and Illness
@@ -61,34 +64,33 @@ Four courses selected from at least two of the department’s three learning tra
 See the college website for more information on credits and criteria
 
 ## How to declare a major/minor
-1. Ask one of your Psychology instructors to be your adviser
-  - Don’t be offended if they don’t have room for you.
 
-OR
-
-2. Contact the Psychology Department Assistant Laura Fountain-Cincotta (lfountaincincotta@smith.edu) asking to be paired with an adviser 
+  - Ask one of your Psychology instructors to be your adviser
+     - Some professors may be at advisee capacity and unable to take you on at that time. Don't be intimidated to ask and don't take it personally if they say no!
+  - Contact the Psychology Department Assistant Laura Fountain-Cincotta (lfountaincincotta@smith.edu) asking to be paired with an adviser 
 
 
 ## Broadening your horizons: Other paths of study
+
 Many students find that the psychology major is enhanced by learning in other departments, whether it be through taking other courses, declaring a minor, or declaring a second major.
 
 Common departments often paired with psychology:
 
-- Statistical and Data Science
+- **Statistical and Data Science**
     - Major in SDS
     - Major in Mathematical Statistics
     - Minor in SDS
     - Minor in Applied Statistics 
 
-- Education and Child Study
+- **Education and Child Study**
     - Major in EDC
     - Minor in EDC
 
-- Computer Science
+- **Computer Science**
     - Major in CSC
     - Minor in CSC
 
-- Neuroscience
+- **Neuroscience**
     - Major in Neuroscience
     - Minor in Neuroscience
 
