@@ -110,4 +110,21 @@ Visit the official Smith College website for FAQ about Honors Theses.
 
 # GRADUATE SCHOOL RESOURCES
 
-<div style="text-align: center"><iframe src="https://www.cambridge.org/core/books/portable-mentor/applying-to-graduate-school/9D941C9BE9237361B28774E86A177197" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe></div>
+**The Portable Mentor: Expert Guide to a Successful Career in Psychology (3rd e.d.)**
+
+Edited by: Mitchell J. Prinstein
+
+{% include figure popup=true image_path="/assets/images/portablementor.jpg" %}
+
+This resource was recently made available to access for free online at this link: https://www.cambridge.org/core/books/portable-mentor/ECDDAE8E98903C16930434A5905F7273 
+
+For a comprehnsive guide to graduate school in psychology, see Part 1. Students on the Health and Illness track will find this resource most helpful as it outlines various graduate programs in social work, counseling psychology, clinical psychology, and psychiatry. 
+
+This section of the book has two primary chapters:
+1. Before You Apply to Graduate Programs in Psychology: Knowing When You’re Ready, and Gaining Post-Baccalaureate Experiences
+2. Deciding to Apply and Successfully Gaining Admission to Graduate Schools in Psychology
+
+The first chapter will be particularly helpful for undergraduates who are considering graduate school in the future but want to learn more about the overall process first. 
+
+
+
