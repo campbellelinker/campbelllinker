@@ -78,8 +78,10 @@ Visit the official [Smith College Website](https://www.smith.edu/academics/class
 
 
 # ACADEMIC HELP RESOURCES
-
-## Writing papers
+## Writing
+Writing for psychology can be a challenge for some undergraduates as most students have not taken college-level psychology courses before. Using APA style and writing for science in general is different from other fields, so it's not uncommon to struggle with these assignments.
+### Structure for research paper
+{% include figure popup=true image_path="/assets/images/hourglass.jpg" %}
 
 
 
