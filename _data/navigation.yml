@@ -1,7 +1,10 @@
 main:
-  - title: "How to navigate"
-    url: /about/
   - title: "Academics"
     url: /academic/
   - title: "Extracurricular"
     url: /extracurricular/
+  - title: "Professional Development"
+    url: /profdevelopment/
+  - title: "Graduate School"
+    url: /gradschool/
+    
