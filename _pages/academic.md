@@ -68,9 +68,13 @@ Many students will complete coursework, a minor, or a major in a foreign languag
 
 ## Honors Thesis in Psychology
 
-The departmental honors thesis is for senior psychology majors interested in conducting independent research on a particular topic. Honors students work closely with a faculty member to conceptualize, design, and conduct an empirical research project. Please note: faculty members from outside the Smith Psychology department are not eligible to serve as thesis advisers; the principal adviser of a psychology honors thesis must be a Smith Psychology Department faculty member. The project culminates in a paper that is equivalent to a publishable journal article in quality and length (i.e., about 30-50 pages of text and written in APA style). At the end of the academic year, Honors students present their projects to the department as a whole. Successful completion of an Honors thesis leads to departmental honors upon graduation.
+The departmental honors thesis is for senior psychology majors interested in conducting independent research on a particular topic. Honors students work closely with a faculty member to conceptualize, design, and conduct an empirical research project.
 
-Visit the official Smith College website for FAQ about Honors Theses.
+Please note: faculty members from outside the Smith Psychology department are not eligible to serve as thesis advisers; the principal adviser of a psychology honors thesis must be a Smith Psychology Department faculty member. 
+
+The project culminates in a paper that is equivalent to a publishable journal article in quality and length (i.e., about 30-50 pages of text and written in APA style). At the end of the academic year, Honors students present their projects to the department as a whole. Successful completion of an Honors thesis leads to departmental honors upon graduation.
+
+Visit the official Smith College website for FAQ about Honors Theses across departments.
 
 
 # ACADEMIC HELP RESOURCES
