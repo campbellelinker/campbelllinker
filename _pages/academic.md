@@ -115,13 +115,10 @@ Edited by: Mitchell J. Prinstein
 
 This resource was recently made available to access for free online at <a href="[www.something.co](https://www.cambridge.org/core/books/portable-mentor/ECDDAE8E98903C16930434A5905F7273 )m"> this link. </a> 
 
-For a comprehnsive guide to graduate school in psychology, see Part 1. Students on the Health and Illness track will find this resource most helpful as it outlines various graduate programs in social work, counseling psychology, clinical psychology, and psychiatry. 
+For a comprehnsive guide to graduate school in psychology, see Part 1. This section of the book has two primary chapters:
+1. **Before You Apply to Graduate Programs in Psychology:** Knowing When You’re Ready, and Gaining Post-Baccalaureate Experiences
+2. **Deciding to Apply and Successfully Gaining Admission to Graduate Schools in Psychology**
 
-This section of the book has two primary chapters:
-1. Before You Apply to Graduate Programs in Psychology: Knowing When You’re Ready, and Gaining Post-Baccalaureate Experiences
-2. Deciding to Apply and Successfully Gaining Admission to Graduate Schools in Psychology
-
-The first chapter will be particularly helpful for undergraduates who are considering graduate school in the future but want to learn more about the overall process first. 
 
 
 
