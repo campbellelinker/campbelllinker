@@ -116,7 +116,7 @@ Edited by: Mitchell J. Prinstein
 
 {% include figure popup=true image_path="/assets/images/portablementor.jpg" %}
 
-This resource was recently made available to access for free online at this link: https://www.cambridge.org/core/books/portable-mentor/ECDDAE8E98903C16930434A5905F7273 
+This resource was recently made available to access for free online at <a href="[www.something.co](https://www.cambridge.org/core/books/portable-mentor/ECDDAE8E98903C16930434A5905F7273 )m"> this link. </a> 
 
 For a comprehnsive guide to graduate school in psychology, see Part 1. Students on the Health and Illness track will find this resource most helpful as it outlines various graduate programs in social work, counseling psychology, clinical psychology, and psychiatry. 
 
