@@ -3,7 +3,9 @@ permalink: /academic/
 title: "Academics"
 toc_sticky: true
 ---
-This page contains information regarding the psychology department at Smith College, general resources for academic writing in psychology, and resources for graduate school.
+This page contains information regarding the psychology department at Smith College and general resources for academic help in psychology.
+
+{% include figure popup=true image_path="/assets/images/library.jpg" %}
 
 # PSYCHOLOGY AT SMITH
 
