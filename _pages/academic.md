@@ -3,7 +3,7 @@ permalink: /academic/
 title: "Academics"
 toc_sticky: true
 ---
-This page contains information regarding the psychology department at Smith College and general resources for academic help in psychology.
+This page contains information regarding the psychology department at Smith College and general resources for academic support.
 
 {% include figure popup=true image_path="/assets/images/library.jpg" %}
 
@@ -79,15 +79,14 @@ Visit the official [Smith College Website](https://www.smith.edu/academics/class
 
 # Academic Resources
 ## Writing
-Writing for psychology can be a challenge for some undergraduates as most students have not taken college-level psychology courses before. Using APA style and writing for science in general is different from other fields, so it's not uncommon to struggle with these assignments.
+
+Writing for psychology can be a challenge for some undergraduates as most students have not taken college-level psychology courses before.
 
 ### Structure for research paper
 {% include figure popup=true image_path="/assets/images/hourglass.jpg" %}
 
 ### APA citation style
-In psychology, APA is the most commonly used citation style and is likely expected in your coursework unless specified otherwise. 
-
-APA 7 is the most recent edition of this style and is different from other writing styles like MLA or Chicago. **It is important to know the differences to avoid plagarism.**
+In psychology, **APA 7** is the most commonly used citation style and is likely expected in your coursework unless specified otherwise. 
 
 {% include figure popup=true image_path="/assets/images/article.jpg" %}
 
@@ -100,11 +99,10 @@ Smith offers a number of resources for students seeking academic support.
     - Offers tutoring resources for various quantitative fields, such as statistics
     - Attend drop in hours with student tutors or specialists, or make an appointment
     - Your course may advertise a designated time and place for tutoring specific to your coursework - always ask your instructor!
- - If your course has a teaching assistant, seek help through one-on-one appointments or drop in hours
- - **Attend office hours and talk to your professor directly!**
-     - The best way to get help is directly from the source. Not everyone feels comfortable coming to college and attending office hours, but it is very normal and encouraged to do so!
-     - If you book office hours with your professor, plan out what you want to discuss ahead of time so that you can maximize your appointment
-     - Not only are office hours a great way to receive support in your course, but it demonstrates participation (possible grade boost) and it allows you to form a closer working relationship with your professor
+ - **Attend office hours and talk to your professor directly**
+     - The best way to get help is directly from the source. Not everyone feels comfortable coming to college and attending office hours, but it is **very normal** and **encouraged**
+     - Plan out content for your meeting ahead of time
+     - Office hours help you with course content, demonstrate participation, and can help you form a closer working relationship with your professors
 
 
 
