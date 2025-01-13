@@ -107,8 +107,7 @@ Visit the official Smith College website for FAQ about Honors Theses.
 
 ## External resources
 
-**The Portable Mentor: Expert Guide to a Successful Career in Psychology (3rd e.d.)**
-
+### The Portable Mentor: Expert Guide to a Successful Career in Psychology (3rd e.d.)
 Edited by: Mitchell J. Prinstein
 
 {% include figure popup=true image_path="/assets/images/portablementor.jpg" %}
