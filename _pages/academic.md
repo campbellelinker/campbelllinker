@@ -80,8 +80,16 @@ Visit the official [Smith College Website](https://www.smith.edu/academics/class
 # ACADEMIC RESOURCES
 ## Writing
 Writing for psychology can be a challenge for some undergraduates as most students have not taken college-level psychology courses before. Using APA style and writing for science in general is different from other fields, so it's not uncommon to struggle with these assignments.
+
 ### Structure for research paper
 {% include figure popup=true image_path="/assets/images/hourglass.jpg" %}
+
+### APA citation style
+In psychology, APA is the most commonly used citation style and is likely expected in your coursework unless specified otherwise. 
+
+APA 7 is the most recent edition of this style and is different from other writing styles like MLA or Chicago. **It is important to know the differences to avoid plagarism.**
+
+{% include figure popup=true image_path="/assets/images/article.jpg" %}
 
 ## Smith College resources
 Smith offers a number of resources for students seeking academic support.
