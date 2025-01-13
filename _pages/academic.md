@@ -26,27 +26,7 @@ The psychology curriculum is organized around the following tracks of study:
 ## The major and minor
 ### Psychology major requirements:
 
-{% include figure popup=true image_path="/assets/images/majoroutline.jpg" %}
-
-**Ten total courses**
-
-Three foundation Courses (normally completed by the end of the sophomore year):
- - PSY 100
- - SDS 201 or PSY 201
- - PSY 202
-
-Breadth (One course within each of the department’s three curricular areas):
- - Mind and Brain
- - Health and Illness
- - Person and Society
-
-Depth
- - Two colloquia
- - Two courses at the advanced level (300- or above)
-     - At least one of which is a seminar
-     - At least one course that is consistent with the selected major track
-
-See the college website for more information on credits and criteria
+{% include figure popup=true image_path="/assets/images/2025major.jpg" %}
 
 ### Psychology minor requirements:
 
