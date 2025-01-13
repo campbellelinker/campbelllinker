@@ -39,7 +39,7 @@ The psychology curriculum is organized around the following tracks of study:
        
   - Contact the Psychology Department Assistant Laura Fountain-Cincotta (lfountaincincotta@smith.edu) asking to be paired with an adviser 
 
-{% include figure popup=true image_path="/assets/images/collegehall.jpg" %}
+{% include figure popup=true image_path="/assets/images/collegehalll.jpg" %}
 
 ## Broadening your horizons: Other paths of study
 
