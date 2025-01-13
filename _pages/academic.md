@@ -74,7 +74,7 @@ Please note: faculty members from outside the Smith Psychology department are no
 
 The project culminates in a paper that is equivalent to a publishable journal article in quality and length (i.e., about 30-50 pages of text and written in APA style). At the end of the academic year, Honors students present their projects to the department as a whole. Successful completion of an Honors thesis leads to departmental honors upon graduation.
 
-Visit the official Smith College website for FAQ about Honors Theses across departments.
+Visit the official <a href="[www.something.co](https://www.smith.edu/academics/class-deans/departmental-honors)m"> Smith College website </a> for FAQ about Honors Theses across departments.
 
 
 # ACADEMIC HELP RESOURCES
