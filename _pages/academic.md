@@ -30,21 +30,7 @@ The psychology curriculum is organized around the following tracks of study:
 
 ### Psychology minor requirements:
 
-**Six total courses**
-
-Two courses from the three foundational courses for the major 
- - PSY 100
- - SDS 201 or PSY 201
- - PSY 202
-   
-Four courses selected from at least two of the department’s three learning tracks:
- - Mind and Brain
- - Health and Illness
- - Person and Society
-     - At least one is a colloquium
-     - At least one is a seminar
-
-See the college website for more information on credits and criteria
+{% include figure popup=true image_path="/assets/images/2025minor.jpg" %}
 
 ## How to declare a major/minor
 
