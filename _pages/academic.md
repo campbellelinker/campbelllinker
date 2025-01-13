@@ -36,8 +36,10 @@ The psychology curriculum is organized around the following tracks of study:
 
   - Ask one of your Psychology instructors to be your adviser
      - Some professors may be at advisee capacity and unable to take you on at that time. Don't be intimidated to ask and don't take it personally if they say no!
+       
   - Contact the Psychology Department Assistant Laura Fountain-Cincotta (lfountaincincotta@smith.edu) asking to be paired with an adviser 
 
+{% include figure popup=true image_path="/assets/images/collegehall.jpg" %}
 
 ## Broadening your horizons: Other paths of study
 
