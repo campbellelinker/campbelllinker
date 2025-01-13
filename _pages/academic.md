@@ -7,8 +7,7 @@ This page contains information regarding the psychology department at Smith Coll
 
 {% include figure popup=true image_path="/assets/images/library.jpg" %}
 
-# PSYCHOLOGY AT SMITH
-
+# Psychology at Smith College
 ## Three learning tracks
 The psychology curriculum is organized around the following tracks of study:
 1. **Mind and Brain**
@@ -24,9 +23,11 @@ The psychology curriculum is organized around the following tracks of study:
 
 {% include figure popup=true image_path="/assets/images/tracks.sized.jpg" %}
 
-
 ## The major and minor
 ### Psychology major requirements:
+
+{% include figure popup=true image_path="/assets/images/majoroutline.jpg" %}
+
 **Ten total courses**
 
 Three foundation Courses (normally completed by the end of the sophomore year):
