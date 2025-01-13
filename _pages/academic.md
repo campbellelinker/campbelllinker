@@ -109,3 +109,5 @@ Visit the official Smith College website for FAQ about Honors Theses.
 
 
 # GRADUATE SCHOOL RESOURCES
+
+<div style="text-align: center"><iframe src="https://www.cambridge.org/core/books/portable-mentor/applying-to-graduate-school/9D941C9BE9237361B28774E86A177197" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe></div>
