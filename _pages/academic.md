@@ -77,11 +77,26 @@ The project culminates in a paper that is equivalent to a publishable journal ar
 Visit the official [Smith College Website](https://www.smith.edu/academics/class-deans/departmental-honors) for FAQ about Honors Theses across departments.
 
 
-# ACADEMIC HELP RESOURCES
+# ACADEMIC RESOURCES
 ## Writing
 Writing for psychology can be a challenge for some undergraduates as most students have not taken college-level psychology courses before. Using APA style and writing for science in general is different from other fields, so it's not uncommon to struggle with these assignments.
 ### Structure for research paper
 {% include figure popup=true image_path="/assets/images/hourglass.jpg" %}
+
+## Smith College resources
+Smith offers a number of resources for students seeking academic support.
+- [The Jacobson Center](https://www.smith.edu/academics/integrative-learning/jacobson-center-writing-teaching-learning)
+    - Offers resources for writing assignments at any stage: from brainstorm to final revisions
+    - You can book an appointment with a peer tutor or learning specialist
+- [The Spinelli Center for Quantitative Learning](https://www.smith.edu/academics/applied-learning-research/spinelli-center-quantitative-learning)
+    - Offers tutoring resources for various quantitative fields, such as statistics
+    - Attend drop in hours with student tutors or specialists, or make an appointment
+    - Your course may advertise a designated time and place for tutoring specific to your coursework - always ask your instructor!
+ - If your course has a teaching assistant, seek help through one-on-one appointments or drop in hours
+ - **Attend office hours and talk to your professor directly!**
+     - The best way to get help is directly from the source. Not everyone feels comfortable coming to college and attending office hours, but it is very normal and encouraged to do so!
+     - If you book office hours with your professor, plan out what you want to discuss ahead of time so that you can maximize your appointment
+     - Not only are office hours a great way to receive support in your course, but it demonstrates participation (possible grade boost) and it allows you to form a closer working relationship with your professor
 
 
 
