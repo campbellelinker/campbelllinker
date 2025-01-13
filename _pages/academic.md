@@ -5,11 +5,6 @@ toc_sticky: true
 ---
 This page contains information regarding the psychology department at Smith College, general resources for academic writing in psychology, and resources for graduate school.
 
-# ACADEMIC HELP RESOURCES
-
-## Writing papers
-
-
 # PSYCHOLOGY AT SMITH
 
 ## Three learning tracks
@@ -108,7 +103,9 @@ The departmental honors thesis is for senior psychology majors interested in con
 Visit the official Smith College website for FAQ about Honors Theses.
 
 
-# GRADUATE SCHOOL RESOURCES
+# GRADUATE SCHOOL
+
+## External resources
 
 **The Portable Mentor: Expert Guide to a Successful Career in Psychology (3rd e.d.)**
 
@@ -125,6 +122,12 @@ This section of the book has two primary chapters:
 2. Deciding to Apply and Successfully Gaining Admission to Graduate Schools in Psychology
 
 The first chapter will be particularly helpful for undergraduates who are considering graduate school in the future but want to learn more about the overall process first. 
+
+
+
+# ACADEMIC HELP RESOURCES
+
+## Writing papers
 
 
 
