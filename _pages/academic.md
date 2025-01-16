@@ -3,7 +3,7 @@ permalink: /academic/
 title: "Academics"
 toc_sticky: true
 ---
-This page contains information regarding the psychology department at Smith College and general resources for academic support.
+This page contains information about the psychology department at Smith College and general academic resources for psychology students.
 
 {% include figure popup=true image_path="/assets/images/library.jpg" %}
 
