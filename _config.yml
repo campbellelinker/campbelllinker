@@ -15,7 +15,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Written and compiled by the Psychology Club at Smith College, this student resource website serves as a tool to 
   undergraduates pursuing degrees in psychology.
 
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
