@@ -4,6 +4,13 @@ title: "Extracurricular Resources"
 toc_sticky: true
 ---
 
+# Research opportunities
+## What is research in psychology
+## How to get involved in research
+
+
+# Other extracurricular
+
 # Guide to cold emailing
 <div style="text-align: center"><iframe src="https://docs.google.com/document/d/1Dwx2lKRtH23GHmAd9RiItJrHTYpJ0_GiQzwp1RGp5LQ/edit?usp=sharing" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe></div>
 
