@@ -23,12 +23,11 @@ The psychology curriculum is organized around the following tracks of study:
 
 {% include figure popup=true image_path="/assets/images/tracks.sized.jpg" %}
 
-## The major and minor
-### Psychology major requirements:
+## Psychology major requirements
 
 {% include figure popup=true image_path="/assets/images/2025major.jpg" %}
 
-### Psychology minor requirements:
+## Psychology minor requirements
 
 {% include figure popup=true image_path="/assets/images/2025minor.jpg" %}
 
