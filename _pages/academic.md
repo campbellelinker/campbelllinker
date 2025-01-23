@@ -85,10 +85,6 @@ Writing for psychology can be a challenge for some undergraduates as most studen
 ### Structure for research paper
 {% include figure popup=true image_path="/assets/images/hourglass.jpg" %}
 
-### APA citation style
-In psychology, **APA 7** is the most commonly used citation style and is likely expected in your coursework unless specified otherwise. 
-
-{% include figure popup=true image_path="/assets/images/article.jpg" %}
 
 ## Smith College resources
 Smith offers a number of resources for students seeking academic support.
