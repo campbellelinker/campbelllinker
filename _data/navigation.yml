@@ -1,8 +1,6 @@
 main:
   - title: "Academics"
     url: /academic/
-  - title: "Extracurricular"
-    url: /extracurricular/
   - title: "Professional Development"
     url: /profdevelopment/
   - title: "Graduate School"
