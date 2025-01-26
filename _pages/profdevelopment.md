@@ -7,8 +7,10 @@ toc_sticky: true
 # Research
 ## What is research in psychology
 tbd...
+
 ## How to get involved in research
 tbd...
+
 ## How to find jobs or internships in research
 ### Psychology department mastersheet
 The psychology department at Smith College maintains a list of post-bacc research jobs and summer internships. 
@@ -16,6 +18,7 @@ The psychology department at Smith College maintains a list of post-bacc researc
 
 # Extracurriculars
 tbd...
+
 # Additional guides
 ## How to: Write a CV
 <div style="text-align: center"><iframe src="https://docs.google.com/document/d/1QOwvf5GVvmJmwdPpMHz4DNR53IhmBWZ_SPJiE2S6Le0/edit?usp=sharing" frameborder="0" width="104%%" height="650" scrolling="yes"></iframe></div>
