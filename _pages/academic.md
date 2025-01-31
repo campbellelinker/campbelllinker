@@ -63,7 +63,7 @@ Common departments often paired with psychology:
     - Major in Neuroscience
     - Minor in Neuroscience
 
-Many students will complete coursework, a minor, or a major in a foreign language.
+And many more!
 
 ## Honors Thesis in Psychology
 
