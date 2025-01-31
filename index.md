@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/bass-hall.jpg
-excerpt: "This website serves as a centralized bank of resources for psychology undergraduates looking for help with academics, internships, jobs, graduate school, and more."
+excerpt: "This website is a comprehensive resource hub for psychology undergraduates, offering support for academics, internships, jobs, graduate school, and more."
 feature_row:
   - image_path: assets/images/smith.jpg
     alt: "placeholder image 1"
