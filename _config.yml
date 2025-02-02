@@ -1,7 +1,6 @@
 # Welcome to the smith psychology resources page. 
 #
-# This config file is meant for settings that affect our entire site, values
-# which you are expected to set up once and rarely need to edit after that.
+# This config file is meant for settings that affect our entire site which you are expected to set up once and rarely need to edit after that.
 
 # Any changes to core features of the website can be made here 
 # - C. LINKER 1.7.2025
@@ -92,6 +91,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/smithpsychologyclub"
+    - label: "Site by: Campbell Linker"
 
 defaults:
   # _posts
