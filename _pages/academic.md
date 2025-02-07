@@ -13,13 +13,14 @@ The psychology curriculum is organized around the following tracks of study:
 1. **Mind and Brain**
     - Cognitive Psychology
     - Neuropsychology
+    - Cognitive Neuroscience
 2. **Health and Illness**
     - Clinical Psychology
-    - Health Psychology 
+    - Health Psychology
 3. **Person and Society**
     - Personality Psychology
     - Social Psychology
-    - Developmental Psychology
+    - Developmental Psychology (technically spans all 3 tracks)
 
 {% include figure popup=true image_path="/assets/images/tracks.sized.jpg" %}
 
@@ -65,6 +66,9 @@ Common departments often paired with psychology:
 
 And many more!
 
+## Special Studies in Psychology 
+*coming soon...*
+
 ## Honors Thesis in Psychology
 
 The departmental honors thesis is for senior psychology majors interested in conducting independent research on a particular topic. Honors students work closely with a faculty member to conceptualize, design, and conduct an empirical research project.
@@ -84,6 +88,8 @@ Writing for psychology can be a challenge for some undergraduates as most studen
 ### Structure for research paper
 {% include figure popup=true image_path="/assets/images/hourglass.jpg" %}
 
+### APA citation style
+*several resources coming soon...*
 
 ## Smith College resources
 Smith offers a number of resources for students seeking academic support.
